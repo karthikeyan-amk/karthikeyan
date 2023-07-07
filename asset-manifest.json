@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/karthikeyan/static/css/main.43daaeda.css",
+    "main.js": "/karthikeyan/static/js/main.931863eb.js",
+    "index.html": "/karthikeyan/index.html",
+    "main.43daaeda.css.map": "/karthikeyan/static/css/main.43daaeda.css.map",
+    "main.931863eb.js.map": "/karthikeyan/static/js/main.931863eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43daaeda.css",
+    "static/js/main.931863eb.js"
+  ]
+}
