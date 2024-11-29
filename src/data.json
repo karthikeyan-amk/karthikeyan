@@ -1,0 +1,64 @@
+{
+  "education": [
+    {
+      "degree": "B.E. CSE",
+      "institution": "Sri Eshwar College of Engineering",
+      "duration": "2021 - 2025",
+      "details": "CGPA: 8.61 (till 6th semester)"
+    },
+    {
+      "degree": "HSC",
+      "institution": "RGH HSS PEDAPPAMPATTI",
+      "duration": "2019 - 2021",
+      "details": "Percentage: 94.8%"
+    },
+    {
+      "degree": "SSLC",
+      "institution": "RGH HSS PEDAPPAMPATTI",
+      "duration": "2018 - 2019",
+      "details": "Percentage: 92.4%"
+    }
+  ],
+  "internships": [
+    {
+      "company": "Guvi",
+      "year": "April 2024 - Present",
+      "description": "Currently Working on a headless CMS tool, integrating AI to improve content management workflows."
+    },
+    {
+      "company": "FundsIndia",
+      "year": "2023",
+      "description": "Developed prototypes for B2B and Advisory dashboard projects using Next.js and TailwindCSS."
+    }
+  ],
+  "projects": [
+    {
+      "title": "Adverse Medication Interaction Analysis",
+      "year": "2024",
+      "description": "Deep learning model predicting adverse medication interactions and outcomes."
+    },
+    {
+      "title": "Grassland Fire Detection",
+      "year": "2024",
+      "description": "Machine learning model predicting grassland fire risks using environmental data."
+    },
+    {
+      "title": "Virtual Medical Friend",
+      "year": "2022",
+      "description": "WhatsApp-integrated chatbot for medical guidance using Python and Twilio."
+    },
+    {
+      "title": "SECE Medical Centre",
+      "year": "2023",
+      "description": "MERN stack application to manage student medical records."
+    }
+  ],
+  "skills": [
+    { "category": "Languages", "details": "C, Java, Python, PHP" },
+    { "category": "Web Technologies", "details": "HTML, CSS, JavaScript, ReactJS" },
+    { "category": "Databases", "details": "MySQL, MongoDB, Redis" },
+    { "category": "Core Concepts", "details": "Data Structures, OOP, DBMS" },
+    { "category": "Tools", "details": "GitHub, Postman, VS Code, Canva" },
+    { "category": "Others", "details": "Content Management Systems, AI, Machine Learning, LLM, HLS" }
+  ]
+}

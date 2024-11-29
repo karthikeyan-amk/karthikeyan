@@ -1,13 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.43daaeda.css",
-    "main.js": "/static/js/main.931863eb.js",
-    "index.html": "/index.html",
-    "main.43daaeda.css.map": "/static/css/main.43daaeda.css.map",
-    "main.931863eb.js.map": "/static/js/main.931863eb.js.map"
+    "main.css": "/karthikeyan/static/css/main.856b4c66.css",
+    "main.js": "/karthikeyan/static/js/main.9e4b9260.js",
+    "static/media/Karthikeyan-photo.jpeg": "/karthikeyan/static/media/Karthikeyan-photo.ec75a146e4e3c4a2ef21.jpeg",
+    "index.html": "/karthikeyan/index.html",
+    "static/media/github.svg": "/karthikeyan/static/media/github.a2dcecaacdba94077f71818776dd805b.svg",
+    "static/media/linkedin.svg": "/karthikeyan/static/media/linkedin.48c578785988bce75017d928a5dc8a14.svg",
+    "main.856b4c66.css.map": "/karthikeyan/static/css/main.856b4c66.css.map",
+    "main.9e4b9260.js.map": "/karthikeyan/static/js/main.9e4b9260.js.map"
   },
   "entrypoints": [
-    "static/css/main.43daaeda.css",
-    "static/js/main.931863eb.js"
+    "static/css/main.856b4c66.css",
+    "static/js/main.9e4b9260.js"
   ]
 }
