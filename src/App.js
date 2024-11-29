@@ -10,7 +10,7 @@ function App() {
           <ul className="flex space-x-4">
             <li>
               <a href="#about" className="text-white hover:text-indigo-200">
-                About
+                About Me
               </a>
             </li>
             <li>
